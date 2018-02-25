@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e88e5</color>
+    <color name="colorPrimaryDark">#005cb2</color>
+    <color name="colorAccent">#6ab7ff</color>
+
+    <color name="APP_COLOR_1">#bebebe</color>
+    <color name="APP_COLOR_2">#000000</color>
+    <color name="APP_COLOR_3">#ffffff</color>
+    <color name="APP_COLOR_4">#b43367d6</color>
+    <color name="APP_COLOR_5">#c8ffffff</color>
+    <color name="APP_COLOR_6">#dfdfdf</color>
+    <color name="APP_COLOR_7">#66bb6a</color>
+    <color name="APP_COLOR_8">#26a69a</color>
+    <color name="APP_COLOR_9">#29b6f6</color>
+    <color name="APP_COLOR_10">#5c6bc0</color>
+    <color name="APP_COLOR_11">#ef5350</color>
+    <color name="APP_COLOR_12">#ff000d</color>
+    <color name="APP_COLOR_13">#5c5c5c</color>
+    <color name="APP_COLOR_14">#b4ffffff</color>
+
+    <color name="Notification.Background">@color/APP_COLOR_12</color>
+    <color name="Notification.Text">@color/APP_COLOR_3</color>
+
+    <color name="History.Adapter.Item.Icon.Background">@color/APP_COLOR_1</color>
+    <color name="History.Adapter.Item.Title">@color/APP_COLOR_2</color>
+    <color name="History.Adapter.Item.Body">@color/APP_COLOR_13</color>
+    <color name="History.Calendar.RiddenDay">@color/APP_COLOR_1</color>
+    <color name="History.Calendar.Switch.BaseColor">@color/colorAccent</color>
+    <color name="History.Calendar.Score.Unknown">@color/APP_COLOR_2</color>
+    <color name="History.Calendar.Score.Best">@color/APP_COLOR_7</color>
+    <color name="History.Calendar.Score.Good">@color/APP_COLOR_8</color>
+    <color name="History.Calendar.Score.Normal">@color/APP_COLOR_9</color>
+    <color name="History.Calendar.Score.Weak">@color/APP_COLOR_10</color>
+    <color name="History.Calendar.Score.Worst">@color/APP_COLOR_11</color>
+    <color name="History.Calendar.Score.Text">@color/APP_COLOR_3</color>
+
+    <color name="History.Map.Icon">@color/APP_COLOR_3</color>
+    <color name="History.Map.Toolbar.Text">@color/APP_COLOR_3</color>
+    <color name="History.Map.Polyline">@color/colorPrimaryDark</color>
+    <color name="History.Map.Polyline.Marker.Start">@color/colorAccent</color>
+    <color name="History.Map.Polyline.Marker.End">@color/colorAccent</color>
+    <color name="History.Map.Polyline.Marker.Current">@color/colorAccent</color>
+    <color name="History.Map.Date">@color/APP_COLOR_3</color>
+    <color name="History.Map.Date.Background">@color/APP_COLOR_2</color>
+    <color name="History.Map.Drawer.Grid">@color/APP_COLOR_4</color>
+    <color name="History.Map.Drawer.Background">@color/APP_COLOR_5</color>
+    <color name="History.Map.Drawer.Icon.Tint">@color/colorAccent</color>
+
+    <color name="EcoDriving.Chart.Speed">@color/colorPrimary</color>
+    <color name="EcoDriving.Chart.Background">@color/APP_COLOR_3</color>
+    <color name="EcoDriving.Chart.OptimalLimits">@color/colorAccent</color>
+    <color name="EcoDriving.Chart.Line">@color/colorPrimaryDark</color>
+
+    <color name="Obd.Connect.Bluetooth">@color/APP_COLOR_2</color>
+    <color name="Obd.Read.Dtc">@color/APP_COLOR_12</color>
+
+    <color name="Tile.Text.Background">@color/APP_COLOR_5</color>
+    <color name="Tile.Text">@color/APP_COLOR_2</color>
+    <color name="Tile.Chart.Background">@color/APP_COLOR_3</color>
+    <color name="Tile.Chart.Line">@color/colorPrimaryDark</color>
+    <color name="Tile.Chart.Background.Bottom">@color/colorAccent</color>
+
+    <color name="Dtc.Item.Icon.Background">@color/APP_COLOR_1</color>
+    <color name="Dtc.Item.Icon.Text">@color/APP_COLOR_3</color>
+    <color name="Dtc.Item.Code">@color/APP_COLOR_2</color>
+    <color name="Dtc.Item.Desc">@color/APP_COLOR_13</color>
+    <color name="Dtc.NoDtc">@color/APP_COLOR_2</color>
+
+    <color name="Menu.DemoMode.Background">@color/APP_COLOR_12</color>
+    <color name="Menu.DemoMode.Text">@color/APP_COLOR_3</color>
+    <color name="Menu.DemoMode.Fog">@color/APP_COLOR_14</color>
+</resources>

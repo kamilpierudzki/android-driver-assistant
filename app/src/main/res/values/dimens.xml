@@ -1,0 +1,57 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="Notification.Height">35dp</dimen>
+    <dimen name="Notification.Margin">32dp</dimen>
+
+    <dimen name="History.Calendar.Adapter.Item.Icon.Size">46dp</dimen>
+    <dimen name="History.Calendar.Adapter.Item.Title">14sp</dimen>
+    <dimen name="History.Calendar.Adapter.Item.Description">12sp</dimen>
+    <dimen name="History.Calendar.Adapter.Score">16sp</dimen>
+
+    <dimen name="History.Map.ToolBar.CheckEngineIcon.Margin">8dp</dimen>
+    <dimen name="History.Map.Toolbar.Icon.Size">16dp</dimen>
+    <dimen name="History.Map.Toolbar.Icon.Size.Small">3dp</dimen>
+    <dimen name="History.Map.Toolbar.TextField">14sp</dimen>
+
+    <dimen name="History.Map.Toolbar.Score.Value">10sp</dimen>
+    <dimen name="History.Map.Toolbar.Score.Text">6sp</dimen>
+    <dimen name="History.Map.Toolbar.Param.Description.Text">8sp</dimen>
+    <dimen name="History.Map.Toolbar.Param.Value.Text">12sp</dimen>
+    <dimen name="History.Map.Toolbar.Param.Unit.Text">8sp</dimen>
+    <dimen name="History.Map.Toolbar.Param.Margin">5dp</dimen>
+
+    <dimen name="History.Map.Date">12sp</dimen>
+    <dimen name="History.Map.Toolbar.Tablet.Land.Width">400dp</dimen>
+
+    <dimen name="History.Map.Drawer.BottomMargin">0dp</dimen>
+    <dimen name="History.Map.Drawer.Icon.Size">16dp</dimen>
+
+    <dimen name="EcoDriving.Tile.ProgressText.Size">12sp</dimen>
+    <dimen name="EcoDriving.Tile.Label.Size">14sp</dimen>
+    <dimen name="EcoDriving.Tile.Progress.Width">5dp</dimen>
+    <dimen name="EcoDriving.Tile.Width">0dp</dimen>
+    <dimen name="EcoDriving.Toolbar.Swich.Icon.Size">35dp</dimen>
+    <dimen name="EcoDriving.Toolbar.ProviderIcon.Margin">15dp</dimen>
+
+    <dimen name="Tile.Text.Padding.Horizontal">8dp</dimen>
+    <dimen name="Tile.Text.Padding.Vertical">4dp</dimen>
+    <dimen name="Tile.Text.Value.Size">45sp</dimen>
+    <dimen name="Tile.Text.Title.Size">16sp</dimen>
+    <dimen name="Tile.Text.Unit.Size">12sp</dimen>
+
+    <dimen name="Obd.Read.Toolbar.DtcIcon.Margin">15dp</dimen>
+
+    <dimen name="Dtc.Item.Icon.Size">46dp</dimen>
+    <dimen name="Dtc.Item.Icon.Text">16sp</dimen>
+    <dimen name="Dtc.Item.Code">18sp</dimen>
+    <dimen name="Dtc.Item.Desc">14sp</dimen>
+    <dimen name="Dtc.Item.NoDtc">18sp</dimen>
+    <dimen name="Dtc.Toolbar.ClearDtcIcon.Margin">15dp</dimen>
+
+</resources>

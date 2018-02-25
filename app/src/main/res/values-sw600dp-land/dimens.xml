@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="EcoDriving.Tile.Width">250dp</dimen>
+    <dimen name="EcoDriving.Tile.ProgressText.Size">20sp</dimen>
+    <dimen name="EcoDriving.Tile.Label.Size">22sp</dimen>
+    <dimen name="Map.Toolbar.Height">90dp</dimen>
+</resources>

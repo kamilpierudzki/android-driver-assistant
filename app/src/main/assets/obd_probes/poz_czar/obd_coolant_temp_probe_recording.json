@@ -1,0 +1,6632 @@
+[
+    {
+        "coolant_temp": "89.0",
+        "id": "1",
+        "timestamp": "1513968438518"
+    },
+    {
+        "coolant_temp": "90.0",
+        "id": "2",
+        "timestamp": "1513968441569"
+    },
+    {
+        "coolant_temp": "89.0",
+        "id": "3",
+        "timestamp": "1513968444486"
+    },
+    {
+        "coolant_temp": "89.0",
+        "id": "4",
+        "timestamp": "1513968447514"
+    },
+    {
+        "coolant_temp": "89.0",
+        "id": "5",
+        "timestamp": "1513968450529"
+    },
+    {
+        "coolant_temp": "88.0",
+        "id": "6",
+        "timestamp": "1513968453785"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "7",
+        "timestamp": "1513968456847"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "8",
+        "timestamp": "1513968460138"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "9",
+        "timestamp": "1513968463448"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "10",
+        "timestamp": "1513968466729"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "11",
+        "timestamp": "1513968470115"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "12",
+        "timestamp": "1513968473251"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "13",
+        "timestamp": "1513968476684"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "14",
+        "timestamp": "1513968480071"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "15",
+        "timestamp": "1513968483577"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "16",
+        "timestamp": "1513968486797"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "17",
+        "timestamp": "1513968490007"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "18",
+        "timestamp": "1513968493390"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "19",
+        "timestamp": "1513968496735"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "20",
+        "timestamp": "1513968500121"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "21",
+        "timestamp": "1513968503486"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "22",
+        "timestamp": "1513968506974"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "23",
+        "timestamp": "1513968510571"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "24",
+        "timestamp": "1513968513980"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "25",
+        "timestamp": "1513968517487"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "26",
+        "timestamp": "1513968520947"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "27",
+        "timestamp": "1513968524782"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "28",
+        "timestamp": "1513968528223"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "29",
+        "timestamp": "1513968531579"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "30",
+        "timestamp": "1513968535381"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "31",
+        "timestamp": "1513968539386"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "32",
+        "timestamp": "1513968542665"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "33",
+        "timestamp": "1513968546244"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "34",
+        "timestamp": "1513968549820"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "35",
+        "timestamp": "1513968553615"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "36",
+        "timestamp": "1513968557592"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "37",
+        "timestamp": "1513968561016"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "38",
+        "timestamp": "1513968564109"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "39",
+        "timestamp": "1513968567133"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "40",
+        "timestamp": "1513968570275"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "41",
+        "timestamp": "1513968573297"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "42",
+        "timestamp": "1513968576513"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "43",
+        "timestamp": "1513968579458"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "44",
+        "timestamp": "1513968582545"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "45",
+        "timestamp": "1513968585582"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "46",
+        "timestamp": "1513968588649"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "47",
+        "timestamp": "1513968591796"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "48",
+        "timestamp": "1513968595023"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "49",
+        "timestamp": "1513968598053"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "50",
+        "timestamp": "1513968601211"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "51",
+        "timestamp": "1513968604276"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "52",
+        "timestamp": "1513968607291"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "53",
+        "timestamp": "1513968610375"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "54",
+        "timestamp": "1513968613478"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "55",
+        "timestamp": "1513968616614"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "56",
+        "timestamp": "1513968619838"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "57",
+        "timestamp": "1513968623001"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "58",
+        "timestamp": "1513968626079"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "59",
+        "timestamp": "1513968629100"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "60",
+        "timestamp": "1513968632250"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "61",
+        "timestamp": "1513968635283"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "62",
+        "timestamp": "1513968638354"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "63",
+        "timestamp": "1513968641361"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "64",
+        "timestamp": "1513968644517"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "65",
+        "timestamp": "1513968647615"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "66",
+        "timestamp": "1513968650626"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "67",
+        "timestamp": "1513968653833"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "68",
+        "timestamp": "1513968656926"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "69",
+        "timestamp": "1513968660011"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "70",
+        "timestamp": "1513968663031"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "71",
+        "timestamp": "1513968666178"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "72",
+        "timestamp": "1513968669333"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "73",
+        "timestamp": "1513968672416"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "74",
+        "timestamp": "1513968675644"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "75",
+        "timestamp": "1513968678725"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "76",
+        "timestamp": "1513968681895"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "77",
+        "timestamp": "1513968684973"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "78",
+        "timestamp": "1513968688173"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "79",
+        "timestamp": "1513968691242"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "80",
+        "timestamp": "1513968694360"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "81",
+        "timestamp": "1513968697414"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "82",
+        "timestamp": "1513968700569"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "83",
+        "timestamp": "1513968703657"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "84",
+        "timestamp": "1513968706607"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "85",
+        "timestamp": "1513968709752"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "86",
+        "timestamp": "1513968712765"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "87",
+        "timestamp": "1513968715935"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "88",
+        "timestamp": "1513968719004"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "89",
+        "timestamp": "1513968722087"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "90",
+        "timestamp": "1513968725115"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "91",
+        "timestamp": "1513968728201"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "92",
+        "timestamp": "1513968731271"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "93",
+        "timestamp": "1513968734431"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "94",
+        "timestamp": "1513968737381"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "95",
+        "timestamp": "1513968740573"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "96",
+        "timestamp": "1513968743506"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "97",
+        "timestamp": "1513968746597"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "98",
+        "timestamp": "1513968749662"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "99",
+        "timestamp": "1513968752820"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "100",
+        "timestamp": "1513968755843"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "101",
+        "timestamp": "1513968758919"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "102",
+        "timestamp": "1513968761946"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "103",
+        "timestamp": "1513968765026"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "104",
+        "timestamp": "1513968768170"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "105",
+        "timestamp": "1513968771282"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "106",
+        "timestamp": "1513968774285"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "107",
+        "timestamp": "1513968777374"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "108",
+        "timestamp": "1513968780580"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "109",
+        "timestamp": "1513968783523"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "110",
+        "timestamp": "1513968786662"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "111",
+        "timestamp": "1513968789825"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "112",
+        "timestamp": "1513968792926"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "113",
+        "timestamp": "1513968795951"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "114",
+        "timestamp": "1513968799023"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "115",
+        "timestamp": "1513968802108"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "116",
+        "timestamp": "1513968805196"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "117",
+        "timestamp": "1513968808490"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "118",
+        "timestamp": "1513968811713"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "119",
+        "timestamp": "1513968814871"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "120",
+        "timestamp": "1513968818017"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "121",
+        "timestamp": "1513968821106"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "122",
+        "timestamp": "1513968824128"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "123",
+        "timestamp": "1513968827348"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "124",
+        "timestamp": "1513968830647"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "125",
+        "timestamp": "1513968833863"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "126",
+        "timestamp": "1513968836959"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "127",
+        "timestamp": "1513968840119"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "128",
+        "timestamp": "1513968843261"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "129",
+        "timestamp": "1513968846411"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "130",
+        "timestamp": "1513968849580"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "131",
+        "timestamp": "1513968852791"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "132",
+        "timestamp": "1513968856018"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "133",
+        "timestamp": "1513968859180"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "134",
+        "timestamp": "1513968862347"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "135",
+        "timestamp": "1513968865487"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "136",
+        "timestamp": "1513968868523"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "137",
+        "timestamp": "1513968871718"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "138",
+        "timestamp": "1513968874808"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "139",
+        "timestamp": "1513968877900"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "140",
+        "timestamp": "1513968881060"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "141",
+        "timestamp": "1513968884364"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "142",
+        "timestamp": "1513968887471"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "143",
+        "timestamp": "1513968890685"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "144",
+        "timestamp": "1513968893909"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "145",
+        "timestamp": "1513968897053"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "146",
+        "timestamp": "1513968900084"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "147",
+        "timestamp": "1513968903154"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "148",
+        "timestamp": "1513968906307"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "149",
+        "timestamp": "1513968909587"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "150",
+        "timestamp": "1513968912772"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "151",
+        "timestamp": "1513968915844"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "152",
+        "timestamp": "1513968918998"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "153",
+        "timestamp": "1513968922225"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "154",
+        "timestamp": "1513968925379"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "155",
+        "timestamp": "1513968928672"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "156",
+        "timestamp": "1513968931892"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "157",
+        "timestamp": "1513968935057"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "158",
+        "timestamp": "1513968938276"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "159",
+        "timestamp": "1513968941504"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "160",
+        "timestamp": "1513968944707"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "161",
+        "timestamp": "1513968947951"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "162",
+        "timestamp": "1513968951158"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "163",
+        "timestamp": "1513968954308"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "164",
+        "timestamp": "1513968957535"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "165",
+        "timestamp": "1513968960687"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "166",
+        "timestamp": "1513968963937"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "167",
+        "timestamp": "1513968967063"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "168",
+        "timestamp": "1513968970222"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "169",
+        "timestamp": "1513968973374"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "170",
+        "timestamp": "1513968976552"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "171",
+        "timestamp": "1513968979635"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "172",
+        "timestamp": "1513968982704"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "173",
+        "timestamp": "1513968985799"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "174",
+        "timestamp": "1513968989096"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "175",
+        "timestamp": "1513968992234"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "176",
+        "timestamp": "1513968995251"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "177",
+        "timestamp": "1513968998404"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "178",
+        "timestamp": "1513969001487"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "179",
+        "timestamp": "1513969004807"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "180",
+        "timestamp": "1513969008008"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "181",
+        "timestamp": "1513969011090"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "182",
+        "timestamp": "1513969014191"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "183",
+        "timestamp": "1513969017334"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "184",
+        "timestamp": "1513969020552"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "185",
+        "timestamp": "1513969023710"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "186",
+        "timestamp": "1513969026795"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "187",
+        "timestamp": "1513969030028"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "188",
+        "timestamp": "1513969033103"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "189",
+        "timestamp": "1513969036259"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "190",
+        "timestamp": "1513969039295"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "191",
+        "timestamp": "1513969042578"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "192",
+        "timestamp": "1513969045742"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "193",
+        "timestamp": "1513969049037"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "194",
+        "timestamp": "1513969052248"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "195",
+        "timestamp": "1513969055558"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "196",
+        "timestamp": "1513969058698"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "197",
+        "timestamp": "1513969061782"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "198",
+        "timestamp": "1513969064814"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "199",
+        "timestamp": "1513969067966"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "200",
+        "timestamp": "1513969071104"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "201",
+        "timestamp": "1513969074274"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "202",
+        "timestamp": "1513969077416"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "203",
+        "timestamp": "1513969080719"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "204",
+        "timestamp": "1513969083932"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "205",
+        "timestamp": "1513969087040"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "206",
+        "timestamp": "1513969090245"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "207",
+        "timestamp": "1513969093398"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "208",
+        "timestamp": "1513969096625"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "209",
+        "timestamp": "1513969099848"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "210",
+        "timestamp": "1513969102950"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "211",
+        "timestamp": "1513969106098"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "212",
+        "timestamp": "1513969109382"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "213",
+        "timestamp": "1513969112479"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "214",
+        "timestamp": "1513969115690"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "215",
+        "timestamp": "1513969118801"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "216",
+        "timestamp": "1513969121861"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "217",
+        "timestamp": "1513969125011"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "218",
+        "timestamp": "1513969128380"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "219",
+        "timestamp": "1513969131481"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "220",
+        "timestamp": "1513969134692"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "221",
+        "timestamp": "1513969137921"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "222",
+        "timestamp": "1513969141208"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "223",
+        "timestamp": "1513969144364"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "224",
+        "timestamp": "1513969147601"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "225",
+        "timestamp": "1513969150884"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "226",
+        "timestamp": "1513969154036"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "227",
+        "timestamp": "1513969157190"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "228",
+        "timestamp": "1513969160439"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "229",
+        "timestamp": "1513969163514"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "230",
+        "timestamp": "1513969166798"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "231",
+        "timestamp": "1513969169949"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "232",
+        "timestamp": "1513969173184"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "233",
+        "timestamp": "1513969176475"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "234",
+        "timestamp": "1513969179703"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "235",
+        "timestamp": "1513969182987"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "236",
+        "timestamp": "1513969186073"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "237",
+        "timestamp": "1513969189174"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "238",
+        "timestamp": "1513969192595"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "239",
+        "timestamp": "1513969195886"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "240",
+        "timestamp": "1513969199120"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "241",
+        "timestamp": "1513969202356"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "242",
+        "timestamp": "1513969205704"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "243",
+        "timestamp": "1513969208858"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "244",
+        "timestamp": "1513969212013"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "245",
+        "timestamp": "1513969215168"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "246",
+        "timestamp": "1513969218545"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "247",
+        "timestamp": "1513969222117"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "248",
+        "timestamp": "1513969225405"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "249",
+        "timestamp": "1513969228779"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "250",
+        "timestamp": "1513969232142"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "251",
+        "timestamp": "1513969235360"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "252",
+        "timestamp": "1513969238371"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "253",
+        "timestamp": "1513969241537"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "254",
+        "timestamp": "1513969244552"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "255",
+        "timestamp": "1513969247647"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "256",
+        "timestamp": "1513969250708"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "257",
+        "timestamp": "1513969253751"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "258",
+        "timestamp": "1513969256819"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "259",
+        "timestamp": "1513969259887"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "260",
+        "timestamp": "1513969262977"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "261",
+        "timestamp": "1513969265991"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "262",
+        "timestamp": "1513969269076"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "263",
+        "timestamp": "1513969272087"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "264",
+        "timestamp": "1513969275256"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "265",
+        "timestamp": "1513969278263"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "266",
+        "timestamp": "1513969281328"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "267",
+        "timestamp": "1513969284412"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "268",
+        "timestamp": "1513969287496"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "269",
+        "timestamp": "1513969290658"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "270",
+        "timestamp": "1513969293808"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "271",
+        "timestamp": "1513969296819"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "272",
+        "timestamp": "1513969299844"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "273",
+        "timestamp": "1513969302991"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "274",
+        "timestamp": "1513969306004"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "275",
+        "timestamp": "1513969309090"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "276",
+        "timestamp": "1513969312174"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "277",
+        "timestamp": "1513969315255"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "278",
+        "timestamp": "1513969318295"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "279",
+        "timestamp": "1513969321438"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "280",
+        "timestamp": "1513969324512"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "281",
+        "timestamp": "1513969327606"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "282",
+        "timestamp": "1513969330675"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "283",
+        "timestamp": "1513969333848"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "284",
+        "timestamp": "1513969336920"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "285",
+        "timestamp": "1513969339936"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "286",
+        "timestamp": "1513969343016"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "287",
+        "timestamp": "1513969346173"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "288",
+        "timestamp": "1513969349271"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "289",
+        "timestamp": "1513969352278"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "290",
+        "timestamp": "1513969355438"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "291",
+        "timestamp": "1513969358507"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "292",
+        "timestamp": "1513969361546"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "293",
+        "timestamp": "1513969364469"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "294",
+        "timestamp": "1513969367555"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "295",
+        "timestamp": "1513969370568"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "296",
+        "timestamp": "1513969373665"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "297",
+        "timestamp": "1513969376742"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "298",
+        "timestamp": "1513969379775"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "299",
+        "timestamp": "1513969382905"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "300",
+        "timestamp": "1513969385924"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "301",
+        "timestamp": "1513969389091"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "302",
+        "timestamp": "1513969392089"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "303",
+        "timestamp": "1513969395398"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "304",
+        "timestamp": "1513969398397"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "305",
+        "timestamp": "1513969401512"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "306",
+        "timestamp": "1513969404583"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "307",
+        "timestamp": "1513969407665"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "308",
+        "timestamp": "1513969410798"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "309",
+        "timestamp": "1513969413892"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "310",
+        "timestamp": "1513969417045"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "311",
+        "timestamp": "1513969420131"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "312",
+        "timestamp": "1513969423226"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "313",
+        "timestamp": "1513969426296"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "314",
+        "timestamp": "1513969429452"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "315",
+        "timestamp": "1513969432607"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "316",
+        "timestamp": "1513969435705"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "317",
+        "timestamp": "1513969438932"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "318",
+        "timestamp": "1513969442013"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "319",
+        "timestamp": "1513969445087"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "320",
+        "timestamp": "1513969448243"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "321",
+        "timestamp": "1513969451325"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "322",
+        "timestamp": "1513969454428"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "323",
+        "timestamp": "1513969457505"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "324",
+        "timestamp": "1513969460651"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "325",
+        "timestamp": "1513969463805"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "326",
+        "timestamp": "1513969467058"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "327",
+        "timestamp": "1513969470183"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "328",
+        "timestamp": "1513969473204"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "329",
+        "timestamp": "1513969476282"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "330",
+        "timestamp": "1513969479310"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "331",
+        "timestamp": "1513969482525"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "332",
+        "timestamp": "1513969485575"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "333",
+        "timestamp": "1513969488729"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "334",
+        "timestamp": "1513969491874"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "335",
+        "timestamp": "1513969494828"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "336",
+        "timestamp": "1513969497996"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "337",
+        "timestamp": "1513969500998"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "338",
+        "timestamp": "1513969504086"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "339",
+        "timestamp": "1513969507239"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "340",
+        "timestamp": "1513969510258"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "341",
+        "timestamp": "1513969513406"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "342",
+        "timestamp": "1513969516539"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "343",
+        "timestamp": "1513969519658"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "344",
+        "timestamp": "1513969522764"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "345",
+        "timestamp": "1513969525855"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "346",
+        "timestamp": "1513969528996"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "347",
+        "timestamp": "1513969532109"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "348",
+        "timestamp": "1513969535164"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "349",
+        "timestamp": "1513969538273"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "350",
+        "timestamp": "1513969541426"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "351",
+        "timestamp": "1513969544493"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "352",
+        "timestamp": "1513969547726"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "353",
+        "timestamp": "1513969550869"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "354",
+        "timestamp": "1513969553977"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "355",
+        "timestamp": "1513969557180"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "356",
+        "timestamp": "1513969560188"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "357",
+        "timestamp": "1513969563226"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "358",
+        "timestamp": "1513969566289"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "359",
+        "timestamp": "1513969569259"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "360",
+        "timestamp": "1513969572198"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "361",
+        "timestamp": "1513969575268"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "362",
+        "timestamp": "1513969578351"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "363",
+        "timestamp": "1513969581506"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "364",
+        "timestamp": "1513969584521"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "365",
+        "timestamp": "1513969587680"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "366",
+        "timestamp": "1513969590831"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "367",
+        "timestamp": "1513969593983"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "368",
+        "timestamp": "1513969597207"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "369",
+        "timestamp": "1513969600294"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "370",
+        "timestamp": "1513969603460"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "371",
+        "timestamp": "1513969606465"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "372",
+        "timestamp": "1513969609547"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "373",
+        "timestamp": "1513969612577"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "374",
+        "timestamp": "1513969615663"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "375",
+        "timestamp": "1513969618803"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "376",
+        "timestamp": "1513969621823"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "377",
+        "timestamp": "1513969624966"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "378",
+        "timestamp": "1513969628054"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "379",
+        "timestamp": "1513969631121"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "380",
+        "timestamp": "1513969634189"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "381",
+        "timestamp": "1513969637344"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "382",
+        "timestamp": "1513969640386"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "383",
+        "timestamp": "1513969643527"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "384",
+        "timestamp": "1513969646597"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "385",
+        "timestamp": "1513969649687"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "386",
+        "timestamp": "1513969652838"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "387",
+        "timestamp": "1513969655932"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "388",
+        "timestamp": "1513969659078"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "389",
+        "timestamp": "1513969662094"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "390",
+        "timestamp": "1513969665178"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "391",
+        "timestamp": "1513969668263"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "392",
+        "timestamp": "1513969671290"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "393",
+        "timestamp": "1513969674361"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "394",
+        "timestamp": "1513969677444"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "395",
+        "timestamp": "1513969680462"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "396",
+        "timestamp": "1513969683545"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "397",
+        "timestamp": "1513969686572"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "398",
+        "timestamp": "1513969689595"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "399",
+        "timestamp": "1513969692725"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "400",
+        "timestamp": "1513969695674"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "401",
+        "timestamp": "1513969698769"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "402",
+        "timestamp": "1513969701771"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "403",
+        "timestamp": "1513969704995"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "404",
+        "timestamp": "1513969708220"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "405",
+        "timestamp": "1513969711239"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "406",
+        "timestamp": "1513969714333"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "407",
+        "timestamp": "1513969717407"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "408",
+        "timestamp": "1513969720369"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "409",
+        "timestamp": "1513969723503"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "410",
+        "timestamp": "1513969726589"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "411",
+        "timestamp": "1513969729673"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "412",
+        "timestamp": "1513969732699"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "413",
+        "timestamp": "1513969735856"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "414",
+        "timestamp": "1513969738930"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "415",
+        "timestamp": "1513969742098"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "416",
+        "timestamp": "1513969745118"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "417",
+        "timestamp": "1513969748113"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "418",
+        "timestamp": "1513969751125"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "419",
+        "timestamp": "1513969754156"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "420",
+        "timestamp": "1513969757298"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "421",
+        "timestamp": "1513969760311"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "422",
+        "timestamp": "1513969763260"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "423",
+        "timestamp": "1513969766290"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "424",
+        "timestamp": "1513969769428"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "425",
+        "timestamp": "1513969772525"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "426",
+        "timestamp": "1513969775678"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "427",
+        "timestamp": "1513969778843"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "428",
+        "timestamp": "1513969781908"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "429",
+        "timestamp": "1513969784991"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "430",
+        "timestamp": "1513969788013"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "431",
+        "timestamp": "1513969791221"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "432",
+        "timestamp": "1513969794239"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "433",
+        "timestamp": "1513969797411"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "434",
+        "timestamp": "1513969800551"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "435",
+        "timestamp": "1513969803783"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "436",
+        "timestamp": "1513969807071"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "437",
+        "timestamp": "1513969810154"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "438",
+        "timestamp": "1513969813322"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "439",
+        "timestamp": "1513969816464"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "440",
+        "timestamp": "1513969819701"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "441",
+        "timestamp": "1513969822843"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "442",
+        "timestamp": "1513969825858"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "443",
+        "timestamp": "1513969828958"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "444",
+        "timestamp": "1513969831966"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "445",
+        "timestamp": "1513969835115"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "446",
+        "timestamp": "1513969838201"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "447",
+        "timestamp": "1513969841405"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "448",
+        "timestamp": "1513969844588"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "449",
+        "timestamp": "1513969847670"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "450",
+        "timestamp": "1513969850730"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "451",
+        "timestamp": "1513969853800"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "452",
+        "timestamp": "1513969856971"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "453",
+        "timestamp": "1513969859994"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "454",
+        "timestamp": "1513969863143"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "455",
+        "timestamp": "1513969866165"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "456",
+        "timestamp": "1513969869381"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "457",
+        "timestamp": "1513969872462"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "458",
+        "timestamp": "1513969875620"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "459",
+        "timestamp": "1513969878706"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "460",
+        "timestamp": "1513969882003"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "461",
+        "timestamp": "1513969885019"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "462",
+        "timestamp": "1513969888099"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "463",
+        "timestamp": "1513969891326"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "464",
+        "timestamp": "1513969894572"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "465",
+        "timestamp": "1513969897919"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "466",
+        "timestamp": "1513969901002"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "467",
+        "timestamp": "1513969904084"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "468",
+        "timestamp": "1513969907249"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "469",
+        "timestamp": "1513969910417"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "470",
+        "timestamp": "1513969913554"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "471",
+        "timestamp": "1513969916787"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "472",
+        "timestamp": "1513969919852"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "473",
+        "timestamp": "1513969922884"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "474",
+        "timestamp": "1513969926123"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "475",
+        "timestamp": "1513969929200"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "476",
+        "timestamp": "1513969932225"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "477",
+        "timestamp": "1513969935383"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "478",
+        "timestamp": "1513969938525"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "479",
+        "timestamp": "1513969941623"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "480",
+        "timestamp": "1513969944690"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "481",
+        "timestamp": "1513969947790"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "482",
+        "timestamp": "1513969950942"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "483",
+        "timestamp": "1513969954040"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "484",
+        "timestamp": "1513969957312"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "485",
+        "timestamp": "1513969960395"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "486",
+        "timestamp": "1513969963411"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "487",
+        "timestamp": "1513969966492"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "488",
+        "timestamp": "1513969969651"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "489",
+        "timestamp": "1513969972685"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "490",
+        "timestamp": "1513969975910"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "491",
+        "timestamp": "1513969979046"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "492",
+        "timestamp": "1513969982267"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "493",
+        "timestamp": "1513969985418"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "494",
+        "timestamp": "1513969988667"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "495",
+        "timestamp": "1513969992082"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "496",
+        "timestamp": "1513969995243"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "497",
+        "timestamp": "1513969998264"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "498",
+        "timestamp": "1513970001265"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "499",
+        "timestamp": "1513970004355"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "500",
+        "timestamp": "1513970007454"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "501",
+        "timestamp": "1513970010521"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "502",
+        "timestamp": "1513970013758"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "503",
+        "timestamp": "1513970016976"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "504",
+        "timestamp": "1513970019985"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "505",
+        "timestamp": "1513970023072"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "506",
+        "timestamp": "1513970026146"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "507",
+        "timestamp": "1513970029116"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "508",
+        "timestamp": "1513970032113"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "509",
+        "timestamp": "1513970035198"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "510",
+        "timestamp": "1513970038283"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "511",
+        "timestamp": "1513970041452"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "512",
+        "timestamp": "1513970044521"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "513",
+        "timestamp": "1513970047605"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "514",
+        "timestamp": "1513970050833"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "515",
+        "timestamp": "1513970053922"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "516",
+        "timestamp": "1513970056930"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "517",
+        "timestamp": "1513970060099"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "518",
+        "timestamp": "1513970063247"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "519",
+        "timestamp": "1513970066270"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "520",
+        "timestamp": "1513970069294"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "521",
+        "timestamp": "1513970072312"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "522",
+        "timestamp": "1513970075456"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "523",
+        "timestamp": "1513970078492"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "524",
+        "timestamp": "1513970081565"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "525",
+        "timestamp": "1513970084717"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "526",
+        "timestamp": "1513970087811"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "527",
+        "timestamp": "1513970090951"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "528",
+        "timestamp": "1513970094033"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "529",
+        "timestamp": "1513970097067"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "530",
+        "timestamp": "1513970100216"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "531",
+        "timestamp": "1513970103305"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "532",
+        "timestamp": "1513970106305"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "533",
+        "timestamp": "1513970109329"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "534",
+        "timestamp": "1513970112402"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "535",
+        "timestamp": "1513970115424"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "536",
+        "timestamp": "1513970118570"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "537",
+        "timestamp": "1513970121620"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "538",
+        "timestamp": "1513970124739"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "539",
+        "timestamp": "1513970127773"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "540",
+        "timestamp": "1513970130855"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "541",
+        "timestamp": "1513970134135"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "542",
+        "timestamp": "1513970137222"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "543",
+        "timestamp": "1513970140323"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "544",
+        "timestamp": "1513970143388"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "545",
+        "timestamp": "1513970146561"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "546",
+        "timestamp": "1513970149701"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "547",
+        "timestamp": "1513970152784"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "548",
+        "timestamp": "1513970155863"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "549",
+        "timestamp": "1513970158884"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "550",
+        "timestamp": "1513970161915"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "551",
+        "timestamp": "1513970164980"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "552",
+        "timestamp": "1513970168138"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "553",
+        "timestamp": "1513970171097"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "554",
+        "timestamp": "1513970174246"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "555",
+        "timestamp": "1513970177465"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "556",
+        "timestamp": "1513970180478"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "557",
+        "timestamp": "1513970183649"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "558",
+        "timestamp": "1513970186800"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "559",
+        "timestamp": "1513970189802"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "560",
+        "timestamp": "1513970192886"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "561",
+        "timestamp": "1513970195927"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "562",
+        "timestamp": "1513970199125"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "563",
+        "timestamp": "1513970202210"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "564",
+        "timestamp": "1513970205308"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "565",
+        "timestamp": "1513970208330"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "566",
+        "timestamp": "1513970211407"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "567",
+        "timestamp": "1513970214553"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "568",
+        "timestamp": "1513970217637"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "569",
+        "timestamp": "1513970220661"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "570",
+        "timestamp": "1513970223664"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "571",
+        "timestamp": "1513970226757"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "572",
+        "timestamp": "1513970229843"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "573",
+        "timestamp": "1513970232933"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "574",
+        "timestamp": "1513970236003"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "575",
+        "timestamp": "1513970239016"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "576",
+        "timestamp": "1513970242170"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "577",
+        "timestamp": "1513970245255"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "578",
+        "timestamp": "1513970248418"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "579",
+        "timestamp": "1513970251495"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "580",
+        "timestamp": "1513970254607"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "581",
+        "timestamp": "1513970257526"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "582",
+        "timestamp": "1513970260623"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "583",
+        "timestamp": "1513970263697"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "584",
+        "timestamp": "1513970266789"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "585",
+        "timestamp": "1513970269864"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "586",
+        "timestamp": "1513970272953"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "587",
+        "timestamp": "1513970276034"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "588",
+        "timestamp": "1513970279046"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "589",
+        "timestamp": "1513970282064"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "590",
+        "timestamp": "1513970285360"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "591",
+        "timestamp": "1513970288300"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "592",
+        "timestamp": "1513970291186"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "593",
+        "timestamp": "1513970294193"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "594",
+        "timestamp": "1513970297220"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "595",
+        "timestamp": "1513970300197"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "596",
+        "timestamp": "1513970303322"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "597",
+        "timestamp": "1513970306279"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "598",
+        "timestamp": "1513970309355"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "599",
+        "timestamp": "1513970312435"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "600",
+        "timestamp": "1513970315606"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "601",
+        "timestamp": "1513970318680"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "602",
+        "timestamp": "1513970321760"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "603",
+        "timestamp": "1513970324841"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "604",
+        "timestamp": "1513970327791"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "605",
+        "timestamp": "1513970330958"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "606",
+        "timestamp": "1513970334048"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "607",
+        "timestamp": "1513970337184"
+    },
+    {
+        "coolant_temp": "89.0",
+        "id": "608",
+        "timestamp": "1513970340267"
+    },
+    {
+        "coolant_temp": "89.0",
+        "id": "609",
+        "timestamp": "1513970343423"
+    },
+    {
+        "coolant_temp": "89.0",
+        "id": "610",
+        "timestamp": "1513970346508"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "611",
+        "timestamp": "1513970349522"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "612",
+        "timestamp": "1513970352706"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "613",
+        "timestamp": "1513970355624"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "614",
+        "timestamp": "1513970358656"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "615",
+        "timestamp": "1513970361792"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "616",
+        "timestamp": "1513970364814"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "617",
+        "timestamp": "1513970368028"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "618",
+        "timestamp": "1513970371131"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "619",
+        "timestamp": "1513970374271"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "620",
+        "timestamp": "1513970377356"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "621",
+        "timestamp": "1513970380440"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "622",
+        "timestamp": "1513970383478"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "623",
+        "timestamp": "1513970386608"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "624",
+        "timestamp": "1513970389696"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "625",
+        "timestamp": "1513970392732"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "626",
+        "timestamp": "1513970395865"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "627",
+        "timestamp": "1513970398875"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "628",
+        "timestamp": "1513970401893"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "629",
+        "timestamp": "1513970404905"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "630",
+        "timestamp": "1513970407990"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "631",
+        "timestamp": "1513970411077"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "632",
+        "timestamp": "1513970414157"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "633",
+        "timestamp": "1513970417245"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "634",
+        "timestamp": "1513970420331"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "635",
+        "timestamp": "1513970423414"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "636",
+        "timestamp": "1513970426571"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "637",
+        "timestamp": "1513970429667"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "638",
+        "timestamp": "1513970432676"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "639",
+        "timestamp": "1513970435694"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "640",
+        "timestamp": "1513970438721"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "641",
+        "timestamp": "1513970441651"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "642",
+        "timestamp": "1513970444795"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "643",
+        "timestamp": "1513970448023"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "644",
+        "timestamp": "1513970451191"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "645",
+        "timestamp": "1513970454314"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "646",
+        "timestamp": "1513970457343"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "647",
+        "timestamp": "1513970460361"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "648",
+        "timestamp": "1513970463525"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "649",
+        "timestamp": "1513970466728"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "650",
+        "timestamp": "1513970469827"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "651",
+        "timestamp": "1513970472854"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "652",
+        "timestamp": "1513970475922"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "653",
+        "timestamp": "1513970478951"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "654",
+        "timestamp": "1513970481954"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "655",
+        "timestamp": "1513970485120"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "656",
+        "timestamp": "1513970488190"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "657",
+        "timestamp": "1513970491278"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "658",
+        "timestamp": "1513970494430"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "659",
+        "timestamp": "1513970497448"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "660",
+        "timestamp": "1513970500544"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "661",
+        "timestamp": "1513970503553"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "662",
+        "timestamp": "1513970506650"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "663",
+        "timestamp": "1513970509783"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "664",
+        "timestamp": "1513970512940"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "665",
+        "timestamp": "1513970516164"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "666",
+        "timestamp": "1513970519319"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "667",
+        "timestamp": "1513970522342"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "668",
+        "timestamp": "1513970525415"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "669",
+        "timestamp": "1513970528573"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "670",
+        "timestamp": "1513970531675"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "671",
+        "timestamp": "1513970534741"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "672",
+        "timestamp": "1513970538037"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "673",
+        "timestamp": "1513970541139"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "674",
+        "timestamp": "1513970544277"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "675",
+        "timestamp": "1513970547365"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "676",
+        "timestamp": "1513970550450"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "677",
+        "timestamp": "1513970553465"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "678",
+        "timestamp": "1513970556473"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "679",
+        "timestamp": "1513970559635"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "680",
+        "timestamp": "1513970562718"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "681",
+        "timestamp": "1513970565884"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "682",
+        "timestamp": "1513970569028"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "683",
+        "timestamp": "1513970572180"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "684",
+        "timestamp": "1513970575200"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "685",
+        "timestamp": "1513970578350"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "686",
+        "timestamp": "1513970581309"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "687",
+        "timestamp": "1513970584381"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "688",
+        "timestamp": "1513970587532"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "689",
+        "timestamp": "1513970590548"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "690",
+        "timestamp": "1513970593703"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "691",
+        "timestamp": "1513970596850"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "692",
+        "timestamp": "1513970600056"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "693",
+        "timestamp": "1513970602974"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "694",
+        "timestamp": "1513970605986"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "695",
+        "timestamp": "1513970609074"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "696",
+        "timestamp": "1513970612283"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "697",
+        "timestamp": "1513970615368"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "698",
+        "timestamp": "1513970618463"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "699",
+        "timestamp": "1513970621630"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "700",
+        "timestamp": "1513970624760"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "701",
+        "timestamp": "1513970627845"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "702",
+        "timestamp": "1513970631026"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "703",
+        "timestamp": "1513970634156"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "704",
+        "timestamp": "1513970637310"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "705",
+        "timestamp": "1513970640477"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "706",
+        "timestamp": "1513970643479"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "707",
+        "timestamp": "1513970646638"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "708",
+        "timestamp": "1513970649789"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "709",
+        "timestamp": "1513970652812"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "710",
+        "timestamp": "1513970655908"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "711",
+        "timestamp": "1513970658875"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "712",
+        "timestamp": "1513970661874"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "713",
+        "timestamp": "1513970664971"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "714",
+        "timestamp": "1513970668114"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "715",
+        "timestamp": "1513970671150"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "716",
+        "timestamp": "1513970674299"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "717",
+        "timestamp": "1513970677369"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "718",
+        "timestamp": "1513970680538"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "719",
+        "timestamp": "1513970683754"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "720",
+        "timestamp": "1513970686764"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "721",
+        "timestamp": "1513970689847"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "722",
+        "timestamp": "1513970692934"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "723",
+        "timestamp": "1513970696015"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "724",
+        "timestamp": "1513970699124"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "725",
+        "timestamp": "1513970702327"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "726",
+        "timestamp": "1513970705481"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "727",
+        "timestamp": "1513970708569"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "728",
+        "timestamp": "1513970711658"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "729",
+        "timestamp": "1513970714675"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "730",
+        "timestamp": "1513970717835"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "731",
+        "timestamp": "1513970720900"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "732",
+        "timestamp": "1513970723989"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "733",
+        "timestamp": "1513970727002"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "734",
+        "timestamp": "1513970730173"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "735",
+        "timestamp": "1513970733186"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "736",
+        "timestamp": "1513970736397"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "737",
+        "timestamp": "1513970739575"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "738",
+        "timestamp": "1513970742643"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "739",
+        "timestamp": "1513970745724"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "740",
+        "timestamp": "1513970748739"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "741",
+        "timestamp": "1513970751763"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "742",
+        "timestamp": "1513970754767"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "743",
+        "timestamp": "1513970757852"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "744",
+        "timestamp": "1513970760939"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "745",
+        "timestamp": "1513970763971"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "746",
+        "timestamp": "1513970767118"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "747",
+        "timestamp": "1513970770199"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "748",
+        "timestamp": "1513970773286"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "749",
+        "timestamp": "1513970776501"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "750",
+        "timestamp": "1513970779454"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "751",
+        "timestamp": "1513970782600"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "752",
+        "timestamp": "1513970785692"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "753",
+        "timestamp": "1513970788911"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "754",
+        "timestamp": "1513970791992"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "755",
+        "timestamp": "1513970795092"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "756",
+        "timestamp": "1513970798167"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "757",
+        "timestamp": "1513970801191"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "758",
+        "timestamp": "1513970804348"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "759",
+        "timestamp": "1513970807560"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "760",
+        "timestamp": "1513970810727"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "761",
+        "timestamp": "1513970813865"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "762",
+        "timestamp": "1513970816951"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "763",
+        "timestamp": "1513970820038"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "764",
+        "timestamp": "1513970823051"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "765",
+        "timestamp": "1513970826289"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "766",
+        "timestamp": "1513970829442"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "767",
+        "timestamp": "1513970832658"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "768",
+        "timestamp": "1513970835747"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "769",
+        "timestamp": "1513970838835"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "770",
+        "timestamp": "1513970841930"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "771",
+        "timestamp": "1513970844920"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "772",
+        "timestamp": "1513970847955"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "773",
+        "timestamp": "1513970850950"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "774",
+        "timestamp": "1513970854052"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "775",
+        "timestamp": "1513970857132"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "776",
+        "timestamp": "1513970860207"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "777",
+        "timestamp": "1513970863244"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "778",
+        "timestamp": "1513970866254"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "779",
+        "timestamp": "1513970869336"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "780",
+        "timestamp": "1513970872335"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "781",
+        "timestamp": "1513970875546"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "782",
+        "timestamp": "1513970878563"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "783",
+        "timestamp": "1513970881665"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "784",
+        "timestamp": "1513970884746"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "785",
+        "timestamp": "1513970887765"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "786",
+        "timestamp": "1513970890600"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "787",
+        "timestamp": "1513970893437"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "788",
+        "timestamp": "1513970896252"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "789",
+        "timestamp": "1513970899102"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "790",
+        "timestamp": "1513970901923"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "791",
+        "timestamp": "1513970904744"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "792",
+        "timestamp": "1513970907593"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "793",
+        "timestamp": "1513970910406"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "794",
+        "timestamp": "1513970913222"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "795",
+        "timestamp": "1513970916049"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "796",
+        "timestamp": "1513970918901"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "797",
+        "timestamp": "1513970921737"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "798",
+        "timestamp": "1513970924534"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "799",
+        "timestamp": "1513970927386"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "800",
+        "timestamp": "1513970930204"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "801",
+        "timestamp": "1513970933049"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "802",
+        "timestamp": "1513970935853"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "803",
+        "timestamp": "1513970938673"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "804",
+        "timestamp": "1513970941489"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "805",
+        "timestamp": "1513970944317"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "806",
+        "timestamp": "1513970947164"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "807",
+        "timestamp": "1513970949992"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "808",
+        "timestamp": "1513970952846"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "809",
+        "timestamp": "1513970955680"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "810",
+        "timestamp": "1513970958532"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "811",
+        "timestamp": "1513970961354"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "812",
+        "timestamp": "1513970964143"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "813",
+        "timestamp": "1513970966961"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "814",
+        "timestamp": "1513970969801"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "815",
+        "timestamp": "1513970972622"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "816",
+        "timestamp": "1513970975434"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "817",
+        "timestamp": "1513970978274"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "818",
+        "timestamp": "1513970981142"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "819",
+        "timestamp": "1513970984000"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "820",
+        "timestamp": "1513970986820"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "821",
+        "timestamp": "1513970989666"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "822",
+        "timestamp": "1513970992516"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "823",
+        "timestamp": "1513970995342"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "824",
+        "timestamp": "1513970998152"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "825",
+        "timestamp": "1513971001014"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "826",
+        "timestamp": "1513971003844"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "827",
+        "timestamp": "1513971006721"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "828",
+        "timestamp": "1513971009571"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "829",
+        "timestamp": "1513971012387"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "830",
+        "timestamp": "1513971015218"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "831",
+        "timestamp": "1513971018057"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "832",
+        "timestamp": "1513971020895"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "833",
+        "timestamp": "1513971023721"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "834",
+        "timestamp": "1513971026555"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "835",
+        "timestamp": "1513971029372"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "836",
+        "timestamp": "1513971032205"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "837",
+        "timestamp": "1513971035038"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "838",
+        "timestamp": "1513971037866"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "839",
+        "timestamp": "1513971040715"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "840",
+        "timestamp": "1513971043568"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "841",
+        "timestamp": "1513971046438"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "842",
+        "timestamp": "1513971049306"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "843",
+        "timestamp": "1513971052157"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "844",
+        "timestamp": "1513971055024"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "845",
+        "timestamp": "1513971057880"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "846",
+        "timestamp": "1513971060682"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "847",
+        "timestamp": "1513971063522"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "848",
+        "timestamp": "1513971066335"
+    },
+    {
+        "coolant_temp": "79.0",
+        "id": "849",
+        "timestamp": "1513971069182"
+    },
+    {
+        "coolant_temp": "78.0",
+        "id": "850",
+        "timestamp": "1513971071993"
+    },
+    {
+        "coolant_temp": "80.0",
+        "id": "851",
+        "timestamp": "1513971074831"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "852",
+        "timestamp": "1513971077709"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "853",
+        "timestamp": "1513971080560"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "854",
+        "timestamp": "1513971083409"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "855",
+        "timestamp": "1513971086243"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "856",
+        "timestamp": "1513971089092"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "857",
+        "timestamp": "1513971091914"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "858",
+        "timestamp": "1513971094729"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "859",
+        "timestamp": "1513971097607"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "860",
+        "timestamp": "1513971100459"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "861",
+        "timestamp": "1513971103356"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "862",
+        "timestamp": "1513971106317"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "863",
+        "timestamp": "1513971109137"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "864",
+        "timestamp": "1513971112014"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "865",
+        "timestamp": "1513971114950"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "866",
+        "timestamp": "1513971117819"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "867",
+        "timestamp": "1513971120647"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "868",
+        "timestamp": "1513971123466"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "869",
+        "timestamp": "1513971126367"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "870",
+        "timestamp": "1513971129189"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "871",
+        "timestamp": "1513971132008"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "872",
+        "timestamp": "1513971134933"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "873",
+        "timestamp": "1513971137738"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "874",
+        "timestamp": "1513971140577"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "875",
+        "timestamp": "1513971143454"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "876",
+        "timestamp": "1513971146313"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "877",
+        "timestamp": "1513971149146"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "878",
+        "timestamp": "1513971152002"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "879",
+        "timestamp": "1513971154894"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "880",
+        "timestamp": "1513971157736"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "881",
+        "timestamp": "1513971160569"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "882",
+        "timestamp": "1513971163441"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "883",
+        "timestamp": "1513971166258"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "884",
+        "timestamp": "1513971169102"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "885",
+        "timestamp": "1513971171984"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "886",
+        "timestamp": "1513971174879"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "887",
+        "timestamp": "1513971177742"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "888",
+        "timestamp": "1513971180592"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "889",
+        "timestamp": "1513971183454"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "890",
+        "timestamp": "1513971186284"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "891",
+        "timestamp": "1513971189146"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "892",
+        "timestamp": "1513971192070"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "893",
+        "timestamp": "1513971194906"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "894",
+        "timestamp": "1513971197787"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "895",
+        "timestamp": "1513971200664"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "896",
+        "timestamp": "1513971203586"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "897",
+        "timestamp": "1513971206422"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "898",
+        "timestamp": "1513971209302"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "899",
+        "timestamp": "1513971212213"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "900",
+        "timestamp": "1513971215030"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "901",
+        "timestamp": "1513971217865"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "902",
+        "timestamp": "1513971220875"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "903",
+        "timestamp": "1513971223709"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "904",
+        "timestamp": "1513971226553"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "905",
+        "timestamp": "1513971229494"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "906",
+        "timestamp": "1513971232319"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "907",
+        "timestamp": "1513971235155"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "908",
+        "timestamp": "1513971238061"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "909",
+        "timestamp": "1513971240874"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "910",
+        "timestamp": "1513971243752"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "911",
+        "timestamp": "1513971246724"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "912",
+        "timestamp": "1513971249563"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "913",
+        "timestamp": "1513971252419"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "914",
+        "timestamp": "1513971255291"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "915",
+        "timestamp": "1513971258203"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "916",
+        "timestamp": "1513971261083"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "917",
+        "timestamp": "1513971263929"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "918",
+        "timestamp": "1513971266877"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "919",
+        "timestamp": "1513971269704"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "920",
+        "timestamp": "1513971272546"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "921",
+        "timestamp": "1513971275472"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "922",
+        "timestamp": "1513971278325"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "923",
+        "timestamp": "1513971281187"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "924",
+        "timestamp": "1513971284138"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "925",
+        "timestamp": "1513971286964"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "926",
+        "timestamp": "1513971289809"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "927",
+        "timestamp": "1513971292641"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "928",
+        "timestamp": "1513971295503"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "929",
+        "timestamp": "1513971298324"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "930",
+        "timestamp": "1513971301376"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "931",
+        "timestamp": "1513971304502"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "932",
+        "timestamp": "1513971307574"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "933",
+        "timestamp": "1513971310576"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "934",
+        "timestamp": "1513971313518"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "935",
+        "timestamp": "1513971316448"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "936",
+        "timestamp": "1513971319387"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "937",
+        "timestamp": "1513971322426"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "938",
+        "timestamp": "1513971325409"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "939",
+        "timestamp": "1513971328346"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "940",
+        "timestamp": "1513971331265"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "941",
+        "timestamp": "1513971334195"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "942",
+        "timestamp": "1513971337208"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "943",
+        "timestamp": "1513971340308"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "944",
+        "timestamp": "1513971343706"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "945",
+        "timestamp": "1513971346724"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "946",
+        "timestamp": "1513971349679"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "947",
+        "timestamp": "1513971352624"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "948",
+        "timestamp": "1513971355596"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "949",
+        "timestamp": "1513971358589"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "950",
+        "timestamp": "1513971361548"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "951",
+        "timestamp": "1513971364473"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "952",
+        "timestamp": "1513971367425"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "953",
+        "timestamp": "1513971370354"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "954",
+        "timestamp": "1513971373359"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "955",
+        "timestamp": "1513971376294"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "956",
+        "timestamp": "1513971379229"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "957",
+        "timestamp": "1513971382235"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "958",
+        "timestamp": "1513971385185"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "959",
+        "timestamp": "1513971388180"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "960",
+        "timestamp": "1513971391240"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "961",
+        "timestamp": "1513971394221"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "962",
+        "timestamp": "1513971397170"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "963",
+        "timestamp": "1513971400104"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "964",
+        "timestamp": "1513971403042"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "965",
+        "timestamp": "1513971405979"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "966",
+        "timestamp": "1513971408951"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "967",
+        "timestamp": "1513971411965"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "968",
+        "timestamp": "1513971414947"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "969",
+        "timestamp": "1513971417957"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "970",
+        "timestamp": "1513971420951"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "971",
+        "timestamp": "1513971423957"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "972",
+        "timestamp": "1513971426956"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "973",
+        "timestamp": "1513971429941"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "974",
+        "timestamp": "1513971433011"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "975",
+        "timestamp": "1513971436068"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "976",
+        "timestamp": "1513971439004"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "977",
+        "timestamp": "1513971441957"
+    },
+    {
+        "coolant_temp": "79.0",
+        "id": "978",
+        "timestamp": "1513971444937"
+    },
+    {
+        "coolant_temp": "79.0",
+        "id": "979",
+        "timestamp": "1513971447936"
+    },
+    {
+        "coolant_temp": "80.0",
+        "id": "980",
+        "timestamp": "1513971450934"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "981",
+        "timestamp": "1513971453931"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "982",
+        "timestamp": "1513971456877"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "983",
+        "timestamp": "1513971459881"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "984",
+        "timestamp": "1513971462931"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "985",
+        "timestamp": "1513971465991"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "986",
+        "timestamp": "1513971468933"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "987",
+        "timestamp": "1513971471927"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "988",
+        "timestamp": "1513971474925"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "989",
+        "timestamp": "1513971477924"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "990",
+        "timestamp": "1513971480835"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "991",
+        "timestamp": "1513971483774"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "992",
+        "timestamp": "1513971486728"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "993",
+        "timestamp": "1513971489663"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "994",
+        "timestamp": "1513971492677"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "995",
+        "timestamp": "1513971495607"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "996",
+        "timestamp": "1513971498551"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "997",
+        "timestamp": "1513971501564"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "998",
+        "timestamp": "1513971504495"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "999",
+        "timestamp": "1513971507559"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1000",
+        "timestamp": "1513971510513"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1001",
+        "timestamp": "1513971513448"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1002",
+        "timestamp": "1513971516514"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1003",
+        "timestamp": "1513971519510"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1004",
+        "timestamp": "1513971522460"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1005",
+        "timestamp": "1513971525468"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1006",
+        "timestamp": "1513971528421"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1007",
+        "timestamp": "1513971531369"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1008",
+        "timestamp": "1513971534305"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1009",
+        "timestamp": "1513971537298"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1010",
+        "timestamp": "1513971540246"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1011",
+        "timestamp": "1513971543187"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1012",
+        "timestamp": "1513971546272"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1013",
+        "timestamp": "1513971549434"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1014",
+        "timestamp": "1513971552373"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1015",
+        "timestamp": "1513971555308"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1016",
+        "timestamp": "1513971558243"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1017",
+        "timestamp": "1513971561178"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1018",
+        "timestamp": "1513971564196"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1019",
+        "timestamp": "1513971567171"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1020",
+        "timestamp": "1513971570290"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1021",
+        "timestamp": "1513971573226"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1022",
+        "timestamp": "1513971576350"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1023",
+        "timestamp": "1513971579451"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1024",
+        "timestamp": "1513971582404"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1025",
+        "timestamp": "1513971585337"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1026",
+        "timestamp": "1513971588338"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1027",
+        "timestamp": "1513971591273"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1028",
+        "timestamp": "1513971594208"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1029",
+        "timestamp": "1513971597144"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1030",
+        "timestamp": "1513971600227"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1031",
+        "timestamp": "1513971603214"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1032",
+        "timestamp": "1513971606210"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1033",
+        "timestamp": "1513971609233"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1034",
+        "timestamp": "1513971612248"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1035",
+        "timestamp": "1513971615194"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1036",
+        "timestamp": "1513971618206"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1037",
+        "timestamp": "1513971621196"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1038",
+        "timestamp": "1513971624255"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1039",
+        "timestamp": "1513971627189"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1040",
+        "timestamp": "1513971630111"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1041",
+        "timestamp": "1513971633045"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1042",
+        "timestamp": "1513971636053"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1043",
+        "timestamp": "1513971638995"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1044",
+        "timestamp": "1513971641981"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1045",
+        "timestamp": "1513971644921"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1046",
+        "timestamp": "1513971647917"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1047",
+        "timestamp": "1513971650914"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1048",
+        "timestamp": "1513971653973"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1049",
+        "timestamp": "1513971656937"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1050",
+        "timestamp": "1513971659913"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1051",
+        "timestamp": "1513971662910"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1052",
+        "timestamp": "1513971665907"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1053",
+        "timestamp": "1513971668844"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1054",
+        "timestamp": "1513971671976"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1055",
+        "timestamp": "1513971675039"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "1056",
+        "timestamp": "1513971678032"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1057",
+        "timestamp": "1513971681045"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1058",
+        "timestamp": "1513971684071"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1059",
+        "timestamp": "1513971687021"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1060",
+        "timestamp": "1513971690020"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "1061",
+        "timestamp": "1513971692966"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "1062",
+        "timestamp": "1513971696012"
+    },
+    {
+        "coolant_temp": "87.0",
+        "id": "1063",
+        "timestamp": "1513971698950"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1064",
+        "timestamp": "1513971701943"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1065",
+        "timestamp": "1513971705007"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1066",
+        "timestamp": "1513971708000"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1067",
+        "timestamp": "1513971711001"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1068",
+        "timestamp": "1513971713935"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1069",
+        "timestamp": "1513971716992"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1070",
+        "timestamp": "1513971719923"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1071",
+        "timestamp": "1513971722860"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1072",
+        "timestamp": "1513971725802"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1073",
+        "timestamp": "1513971728798"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1074",
+        "timestamp": "1513971731815"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1075",
+        "timestamp": "1513971734786"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1076",
+        "timestamp": "1513971737740"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1077",
+        "timestamp": "1513971740680"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1078",
+        "timestamp": "1513971743682"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1079",
+        "timestamp": "1513971746747"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1080",
+        "timestamp": "1513971749819"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1081",
+        "timestamp": "1513971752778"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1082",
+        "timestamp": "1513971755718"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1083",
+        "timestamp": "1513971758651"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1084",
+        "timestamp": "1513971761594"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1085",
+        "timestamp": "1513971764588"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1086",
+        "timestamp": "1513971767651"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1087",
+        "timestamp": "1513971770705"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1088",
+        "timestamp": "1513971773770"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1089",
+        "timestamp": "1513971776975"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1090",
+        "timestamp": "1513971780009"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1091",
+        "timestamp": "1513971783006"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1092",
+        "timestamp": "1513971786038"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1093",
+        "timestamp": "1513971789054"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1094",
+        "timestamp": "1513971792020"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1095",
+        "timestamp": "1513971794931"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1096",
+        "timestamp": "1513971797987"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1097",
+        "timestamp": "1513971800929"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1098",
+        "timestamp": "1513971803923"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1099",
+        "timestamp": "1513971807119"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1100",
+        "timestamp": "1513971810226"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1101",
+        "timestamp": "1513971813222"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1102",
+        "timestamp": "1513971816218"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1103",
+        "timestamp": "1513971819156"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1104",
+        "timestamp": "1513971822210"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1105",
+        "timestamp": "1513971825148"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1106",
+        "timestamp": "1513971828097"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1107",
+        "timestamp": "1513971831081"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1108",
+        "timestamp": "1513971834027"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1109",
+        "timestamp": "1513971837023"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1110",
+        "timestamp": "1513971840059"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1111",
+        "timestamp": "1513971843137"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1112",
+        "timestamp": "1513971846121"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1113",
+        "timestamp": "1513971849137"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1114",
+        "timestamp": "1513971852239"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1115",
+        "timestamp": "1513971855508"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1116",
+        "timestamp": "1513971858526"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1117",
+        "timestamp": "1513971861740"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1118",
+        "timestamp": "1513971864723"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1119",
+        "timestamp": "1513971867735"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1120",
+        "timestamp": "1513971870795"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1121",
+        "timestamp": "1513971873731"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1122",
+        "timestamp": "1513971876730"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1123",
+        "timestamp": "1513971879772"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1124",
+        "timestamp": "1513971882897"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1125",
+        "timestamp": "1513971885967"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1126",
+        "timestamp": "1513971889076"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1127",
+        "timestamp": "1513971892078"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1128",
+        "timestamp": "1513971895014"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1129",
+        "timestamp": "1513971897948"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1130",
+        "timestamp": "1513971900884"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1131",
+        "timestamp": "1513971903883"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1132",
+        "timestamp": "1513971906943"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1133",
+        "timestamp": "1513971910004"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1134",
+        "timestamp": "1513971913001"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1135",
+        "timestamp": "1513971915996"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1136",
+        "timestamp": "1513971918930"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1137",
+        "timestamp": "1513971921894"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1138",
+        "timestamp": "1513971924877"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1139",
+        "timestamp": "1513971927796"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1140",
+        "timestamp": "1513971930748"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1141",
+        "timestamp": "1513971933729"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1142",
+        "timestamp": "1513971936679"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1143",
+        "timestamp": "1513971939678"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1144",
+        "timestamp": "1513971942673"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1145",
+        "timestamp": "1513971945661"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1146",
+        "timestamp": "1513971948604"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1147",
+        "timestamp": "1513971951600"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1148",
+        "timestamp": "1513971954541"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1149",
+        "timestamp": "1513971957480"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1150",
+        "timestamp": "1513971960419"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1151",
+        "timestamp": "1513971963407"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1152",
+        "timestamp": "1513971966345"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1153",
+        "timestamp": "1513971969360"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1154",
+        "timestamp": "1513971972308"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1155",
+        "timestamp": "1513971975306"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1156",
+        "timestamp": "1513971978326"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1157",
+        "timestamp": "1513971981261"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1158",
+        "timestamp": "1513971984196"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1159",
+        "timestamp": "1513971987146"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1160",
+        "timestamp": "1513971990086"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1161",
+        "timestamp": "1513971993087"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1162",
+        "timestamp": "1513971996080"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1163",
+        "timestamp": "1513971999082"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1164",
+        "timestamp": "1513972002003"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1165",
+        "timestamp": "1513972004954"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1166",
+        "timestamp": "1513972007951"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1167",
+        "timestamp": "1513972010949"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1168",
+        "timestamp": "1513972013945"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1169",
+        "timestamp": "1513972017127"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1170",
+        "timestamp": "1513972020064"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1171",
+        "timestamp": "1513972022993"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1172",
+        "timestamp": "1513972025930"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1173",
+        "timestamp": "1513972028927"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1174",
+        "timestamp": "1513972031925"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1175",
+        "timestamp": "1513972034925"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1176",
+        "timestamp": "1513972037920"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1177",
+        "timestamp": "1513972040854"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1178",
+        "timestamp": "1513972043851"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1179",
+        "timestamp": "1513972046785"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1180",
+        "timestamp": "1513972049719"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1181",
+        "timestamp": "1513972052683"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1182",
+        "timestamp": "1513972055817"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1183",
+        "timestamp": "1513972058795"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1184",
+        "timestamp": "1513972061727"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1185",
+        "timestamp": "1513972064659"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1186",
+        "timestamp": "1513972067598"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1187",
+        "timestamp": "1513972070534"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1188",
+        "timestamp": "1513972073466"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1189",
+        "timestamp": "1513972076407"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1190",
+        "timestamp": "1513972079327"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1191",
+        "timestamp": "1513972082267"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1192",
+        "timestamp": "1513972085273"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1193",
+        "timestamp": "1513972088201"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1194",
+        "timestamp": "1513972091202"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1195",
+        "timestamp": "1513972094201"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1196",
+        "timestamp": "1513972097197"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1197",
+        "timestamp": "1513972100191"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1198",
+        "timestamp": "1513972103134"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1199",
+        "timestamp": "1513972106068"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1200",
+        "timestamp": "1513972109017"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1201",
+        "timestamp": "1513972111954"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1202",
+        "timestamp": "1513972114874"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1203",
+        "timestamp": "1513972117817"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1204",
+        "timestamp": "1513972120758"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1205",
+        "timestamp": "1513972123695"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1206",
+        "timestamp": "1513972126709"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1207",
+        "timestamp": "1513972129702"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1208",
+        "timestamp": "1513972132671"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1209",
+        "timestamp": "1513972135819"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1210",
+        "timestamp": "1513972138771"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1211",
+        "timestamp": "1513972141728"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1212",
+        "timestamp": "1513972144651"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1213",
+        "timestamp": "1513972147815"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1214",
+        "timestamp": "1513972150706"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1215",
+        "timestamp": "1513972153662"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1216",
+        "timestamp": "1513972156557"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1217",
+        "timestamp": "1513972159543"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1218",
+        "timestamp": "1513972162539"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1219",
+        "timestamp": "1513972165469"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1220",
+        "timestamp": "1513972168429"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1221",
+        "timestamp": "1513972171440"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1222",
+        "timestamp": "1513972174365"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1223",
+        "timestamp": "1513972177299"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1224",
+        "timestamp": "1513972180241"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1225",
+        "timestamp": "1513972183241"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1226",
+        "timestamp": "1513972186182"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1227",
+        "timestamp": "1513972189123"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1228",
+        "timestamp": "1513972192044"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1229",
+        "timestamp": "1513972195026"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1230",
+        "timestamp": "1513972198057"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1231",
+        "timestamp": "1513972201226"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1232",
+        "timestamp": "1513972204191"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1233",
+        "timestamp": "1513972207149"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1234",
+        "timestamp": "1513972210281"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1235",
+        "timestamp": "1513972213210"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1236",
+        "timestamp": "1513972216162"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1237",
+        "timestamp": "1513972219267"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1238",
+        "timestamp": "1513972222336"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1239",
+        "timestamp": "1513972225264"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1240",
+        "timestamp": "1513972228210"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "1241",
+        "timestamp": "1513972231151"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "1242",
+        "timestamp": "1513972234084"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1243",
+        "timestamp": "1513972237011"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1244",
+        "timestamp": "1513972240011"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1245",
+        "timestamp": "1513972243009"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1246",
+        "timestamp": "1513972245948"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1247",
+        "timestamp": "1513972248945"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1248",
+        "timestamp": "1513972251883"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1249",
+        "timestamp": "1513972254819"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1250",
+        "timestamp": "1513972257747"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1251",
+        "timestamp": "1513972260684"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1252",
+        "timestamp": "1513972263754"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1253",
+        "timestamp": "1513972266695"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1254",
+        "timestamp": "1513972269679"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1255",
+        "timestamp": "1513972272694"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1256",
+        "timestamp": "1513972275612"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1257",
+        "timestamp": "1513972278629"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1258",
+        "timestamp": "1513972281560"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1259",
+        "timestamp": "1513972284492"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1260",
+        "timestamp": "1513972287539"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1261",
+        "timestamp": "1513972290486"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1262",
+        "timestamp": "1513972293422"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1263",
+        "timestamp": "1513972296421"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1264",
+        "timestamp": "1513972299359"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1265",
+        "timestamp": "1513972302350"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1266",
+        "timestamp": "1513972305333"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1267",
+        "timestamp": "1513972308424"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1268",
+        "timestamp": "1513972311220"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1269",
+        "timestamp": "1513972314219"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1270",
+        "timestamp": "1513972317226"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1271",
+        "timestamp": "1513972320157"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1272",
+        "timestamp": "1513972323077"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1273",
+        "timestamp": "1513972326075"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1274",
+        "timestamp": "1513972329013"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1275",
+        "timestamp": "1513972332016"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1276",
+        "timestamp": "1513972334990"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1277",
+        "timestamp": "1513972337962"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1278",
+        "timestamp": "1513972340876"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1279",
+        "timestamp": "1513972343818"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1280",
+        "timestamp": "1513972346935"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1281",
+        "timestamp": "1513972349887"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1282",
+        "timestamp": "1513972352998"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1283",
+        "timestamp": "1513972355964"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1284",
+        "timestamp": "1513972358910"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1285",
+        "timestamp": "1513972361788"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1286",
+        "timestamp": "1513972364670"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1287",
+        "timestamp": "1513972367637"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1288",
+        "timestamp": "1513972370766"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1289",
+        "timestamp": "1513972373729"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1290",
+        "timestamp": "1513972376658"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1291",
+        "timestamp": "1513972379637"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1292",
+        "timestamp": "1513972382652"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1293",
+        "timestamp": "1513972385582"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1294",
+        "timestamp": "1513972388537"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1295",
+        "timestamp": "1513972391476"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1296",
+        "timestamp": "1513972394530"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1297",
+        "timestamp": "1513972397482"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1298",
+        "timestamp": "1513972400479"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1299",
+        "timestamp": "1513972403479"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1300",
+        "timestamp": "1513972406407"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1301",
+        "timestamp": "1513972409336"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1302",
+        "timestamp": "1513972412303"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1303",
+        "timestamp": "1513972415251"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "1304",
+        "timestamp": "1513972418232"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "1305",
+        "timestamp": "1513972421245"
+    },
+    {
+        "coolant_temp": "81.0",
+        "id": "1306",
+        "timestamp": "1513972424243"
+    },
+    {
+        "coolant_temp": "82.0",
+        "id": "1307",
+        "timestamp": "1513972427256"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1308",
+        "timestamp": "1513972430189"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1309",
+        "timestamp": "1513972433216"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1310",
+        "timestamp": "1513972436148"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1311",
+        "timestamp": "1513972439092"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1312",
+        "timestamp": "1513972442024"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1313",
+        "timestamp": "1513972444973"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1314",
+        "timestamp": "1513972447978"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1315",
+        "timestamp": "1513972450914"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1316",
+        "timestamp": "1513972453927"
+    },
+    {
+        "coolant_temp": "83.0",
+        "id": "1317",
+        "timestamp": "1513972456860"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1318",
+        "timestamp": "1513972459798"
+    },
+    {
+        "coolant_temp": "85.0",
+        "id": "1319",
+        "timestamp": "1513972462733"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1320",
+        "timestamp": "1513972465669"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1321",
+        "timestamp": "1513972468606"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1322",
+        "timestamp": "1513972471604"
+    },
+    {
+        "coolant_temp": "86.0",
+        "id": "1323",
+        "timestamp": "1513972474544"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1324",
+        "timestamp": "1513972477541"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1325",
+        "timestamp": "1513972480477"
+    },
+    {
+        "coolant_temp": "84.0",
+        "id": "1326",
+        "timestamp": "1513972483515"
+    }
+]

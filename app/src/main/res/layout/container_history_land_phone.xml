@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/center_view"
+        android:layout_width="8dp"
+        android:layout_height="10dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/start_icon"
+        android:layout_width="@dimen/History.Map.Toolbar.Icon.Size"
+        android:layout_height="@dimen/History.Map.Toolbar.Icon.Size"
+        app:srcCompat="@drawable/map_fragment_start_point"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp" />
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/end_icon"
+        android:layout_width="@dimen/History.Map.Toolbar.Icon.Size"
+        android:layout_height="@dimen/History.Map.Toolbar.Icon.Size"
+        app:srcCompat="@drawable/map_fragment_end_point"
+        app:layout_constraintLeft_toRightOf="@+id/center_view"
+        android:layout_marginLeft="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/start_pos_label"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Plac wolności, Poznań"
+        android:textColor="@color/History.Map.Toolbar.Text"
+        android:textSize="@dimen/History.Map.Toolbar.TextField"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintLeft_toRightOf="@+id/start_icon"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintRight_toLeftOf="@+id/center_view"
+        android:layout_marginRight="0dp"
+        app:layout_constraintHorizontal_bias="0.0" />
+
+    <TextView
+        android:id="@+id/end_pos_label"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Galeria malta, Poznań"
+        android:textColor="@color/History.Map.Toolbar.Text"
+        android:textSize="@dimen/History.Map.Toolbar.TextField"
+        app:layout_constraintLeft_toRightOf="@+id/end_icon"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Notification.Height">35dp</dimen>
+    <dimen name="Notification.Margin">128dp</dimen>
+    <dimen name="History.ToolBar.CheckEngineIcon.Margin">8dp</dimen>
+    <dimen name="EcoDriving.Tile.Progress.Width">15dp</dimen>
+    <dimen name="EcoDriving.Tile.Width">0dp</dimen>
+    <dimen name="EcoDriving.Tile.ProgressText.Size">20sp</dimen>
+    <dimen name="EcoDriving.Tile.Label.Size">22sp</dimen>
+    <dimen name="Map.Toolbar.Height">90dp</dimen>
+    <dimen name="History.Map.Toolbar.TextField">16sp</dimen>
+</resources>

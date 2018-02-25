@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/History.Map.Toolbar.Param.Margin">
+
+    <TextView
+        android:id="@+id/map_item_param_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SPEED"
+        android:textAlignment="center"
+        android:textColor="@color/History.Map.Toolbar.Text"
+        android:textSize="@dimen/History.Map.Toolbar.Param.Description.Text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/map_item_param_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="61"
+        android:textAlignment="center"
+        android:textColor="@color/History.Map.Toolbar.Text"
+        android:textSize="@dimen/History.Map.Toolbar.Param.Value.Text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/map_item_param_desc" />
+
+    <TextView
+        android:id="@+id/map_item_param_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="km/h"
+        android:textAlignment="center"
+        android:textColor="@color/History.Map.Toolbar.Text"
+        android:textSize="@dimen/History.Map.Toolbar.Param.Unit.Text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/map_item_param_value" />
+
+</android.support.constraint.ConstraintLayout>

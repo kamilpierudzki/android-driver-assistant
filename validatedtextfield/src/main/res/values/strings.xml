@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ValidatedTextField</string>
+
+    <string name="error.too_short" formatted="false">Minimalna wymagana ilość znaków to %1$d.</string>
+    <string name="error.too_long" formatted="false">Maksymalna wymagana ilość znaków to %1$d.</string>
+    <string name="error.only_numbers" formatted="false">Tekst musi zawierać tylko cyfry.</string>
+    <string name="error.no_exact" formatted="false">Wymagana ilość znaków to %1$d.</string>
+    <string name="error.empty">Pole nie może być puste</string>
+    <string name="error.passwords_are_different">Hasła się różnią.</string>
+    <string name="error.back_to_the_future">Powrót do przyszłości?</string>
+    <string name="error.wrong_email">Nieprawidłowy format adresu email.</string>
+    <string name="error.only_letters">Wpisany tekst może zawierać tylko litery.</string>
+</resources>

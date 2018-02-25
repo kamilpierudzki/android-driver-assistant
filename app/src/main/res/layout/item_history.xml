@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/history_item_icon"
+        android:layout_width="@dimen/History.Calendar.Adapter.Item.Icon.Size"
+        android:layout_height="@dimen/History.Calendar.Adapter.Item.Icon.Size"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/item_history_background"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="999"
+        android:textColor="@color/History.Calendar.Score.Text"
+        android:textSize="@dimen/History.Calendar.Adapter.Score"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/history_item_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Dworzec Autobusowy PKS Poznań S.A., Matyi 2, 61-896 Poznań, Poland"
+        android:textColor="@color/History.Adapter.Item.Title"
+        android:textSize="@dimen/History.Calendar.Adapter.Item.Title"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintLeft_toRightOf="@+id/history_item_icon"
+        app:layout_constraintRight_toLeftOf="@+id/history_item_date"
+        app:layout_constraintStart_toEndOf="@+id/history_item_icon"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/history_item_desc"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="8dp"
+        android:text="Dworzec Autobusowy PKS Poznań S.A., Matyi 2, 61-896 Poznań, Poland"
+        android:textColor="@color/History.Adapter.Item.Body"
+        android:textSize="@dimen/History.Calendar.Adapter.Item.Description"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="@+id/history_item_title"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/history_item_title" />
+
+    <TextView
+        android:id="@+id/history_item_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="8dp"
+        android:text="TextView"
+        android:textColor="@color/History.Adapter.Item.Body"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/history_item_checkbox"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

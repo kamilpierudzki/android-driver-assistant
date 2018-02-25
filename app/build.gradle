@@ -1,0 +1,104 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "com.google.kpierudzki.driverassistant"
+        minSdkVersion 17
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    dexOptions {
+        incremental true
+    }
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.jetbrains.kotlin:kotlin-stdlib:1.2.20'
+
+    compile 'com.android.support:appcompat-v7:27.0.2'
+    compile 'com.android.support:design:27.0.2'
+    compile 'com.android.support:support-vector-drawable:27.0.2'
+
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+
+    //GridLayout
+    compile 'com.android.support:gridlayout-v7:27.0.2'
+
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    //Chart
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.2'
+
+    //Java 8 streams
+    compile 'net.sourceforge.streamsupport:streamsupport:1.5.5'
+    compile 'net.sourceforge.streamsupport:streamsupport-cfuture:1.5.5'
+    compile 'net.sourceforge.streamsupport:streamsupport-atomic:1.5.5'
+    compile 'net.sourceforge.streamsupport:streamsupport-flow:1.5.5'
+    compile 'net.sourceforge.streamsupport:streamsupport-literal:1.5.5'
+
+    //ButterKnife
+    compile 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+
+    //ValidatedEditText
+    compile project(':validatedtextfield')
+    //obd-ii-java
+    compile project(':obd-ii-java')
+
+    //Room
+    compile 'android.arch.persistence.room:runtime:1.0.0'
+    annotationProcessor "android.arch.persistence.room:compiler:1.0.0"
+
+    //CalendarView
+    compile 'com.prolificinteractive:material-calendarview:1.4.3'
+
+    //Google Maps
+    compile 'com.google.android.gms:play-services-maps:11.8.0'
+
+    //OkHttp
+    compile 'com.squareup.okhttp3:okhttp:3.8.1'
+
+    //Vertical SeekBar
+    compile 'com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.2'
+
+    //Endless iterator
+    compile 'com.google.guava:guava:20.0'
+
+    //Physic based animations
+    compile "com.android.support:support-dynamic-animation:27.0.2"
+
+    //MultiDex
+    compile 'com.android.support:multidex:1.0.2'
+}
