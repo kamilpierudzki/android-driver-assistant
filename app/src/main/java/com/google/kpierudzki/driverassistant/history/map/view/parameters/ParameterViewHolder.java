@@ -13,10 +13,7 @@ import butterknife.ButterKnife;
  * Created by Kamil on 15.11.2017.
  */
 
-public class ParameterViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
-
-    private MapParametersManager.ICallbacks callbacks;
-    private MapParametersAdapter.EntityModel currentModel;
+public class ParameterViewHolder extends RecyclerView.ViewHolder {
 
     @BindView(R.id.map_item_param_desc)
     TextView paramDesc;
@@ -27,24 +24,15 @@ public class ParameterViewHolder extends RecyclerView.ViewHolder implements View
     @BindView(R.id.map_item_param_unit)
     TextView paramUnit;
 
-    ParameterViewHolder(View itemView, MapParametersManager.ICallbacks callbacks) {
+    ParameterViewHolder(View itemView) {
         super(itemView);
-        this.callbacks = callbacks;
 
         ButterKnife.bind(this, itemView);
-
-        itemView.setOnClickListener(this);
     }
 
     void setItem(MapParametersAdapter.EntityModel model) {
-        this.currentModel = model;
         paramDesc.setText(model.paramType.getLocalizedName());
         paramValue.setText(model.value);
         paramUnit.setText(model.paramType.getUnit());
-    }
-
-    @Override
-    public void onClick(View view) {
-        callbacks.onParameterClicked(currentModel.paramType);
     }
 }

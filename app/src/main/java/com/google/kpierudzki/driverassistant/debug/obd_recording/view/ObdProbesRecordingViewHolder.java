@@ -29,7 +29,7 @@ public class ObdProbesRecordingViewHolder extends RecyclerView.ViewHolder {
     }
 
     public void setItem(ObdProbesRecordingAdapter.ObdProbeRecordingModel model) {
-        name.setText(model.paramType.getParameterInfoDialogTitle());
+        name.setText(model.paramType.name());
         count.setText(String.format(Locale.getDefault(), "%d", model.count));
     }
 }

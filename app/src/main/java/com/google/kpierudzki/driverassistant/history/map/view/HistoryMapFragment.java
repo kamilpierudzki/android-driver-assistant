@@ -45,7 +45,7 @@ import butterknife.ButterKnife;
  */
 
 public class HistoryMapFragment extends Fragment implements OnMapReadyCallback, HistoryMapContract.View,
-        SeekBarManager.ICallbacks, MapParametersManager.ICallbacks {
+        SeekBarManager.ICallbacks {
 
     public final static String KEY_MAP_INFO = "KEY_MAP_INFO";
 
@@ -88,7 +88,7 @@ public class HistoryMapFragment extends Fragment implements OnMapReadyCallback, 
 
         RecyclerView recyclerView = toolbar.findViewById(R.id.container_map_recyclerview);
         if (recyclerView != null)
-            mapParametersManager = new MapParametersManager(recyclerView, this, trackDate);
+            mapParametersManager = new MapParametersManager(recyclerView, trackDate);
 
         mapManager = new MapManager(root, mapView, savedInstanceState, this);
 
@@ -159,14 +159,6 @@ public class HistoryMapFragment extends Fragment implements OnMapReadyCallback, 
             HistoryMapContract.MapData mapData = mapParametersManager.refresh(progress);
             if (mapData != null && mapManager != null)
                 mapManager.updateMarker(mapData.geoSamplesEntity.getOffset());
-        }
-    }
-
-    @Override
-    public void onParameterClicked(ObdParamType paramType) {
-        if (getActivity() != null) {
-            MapParameterInfoDialog.newInstance(paramType)
-                    .show(getActivity().getSupportFragmentManager(), MapParameterInfoDialog.TAG);
         }
     }
 

@@ -30,8 +30,7 @@ public class MapParameterInfoDialog extends DialogFragment {
         }
 
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
-        builder.setTitle(currentType.getParameterInfoDialogTitle())
-                .setMessage(currentType.getParameterInfoDialogDescription())
+        builder.setMessage(currentType.name())
                 .setNeutralButton(R.string.Obd_Malfunction_Dialog_Button, (dialogInterface, i) ->
                         dialogInterface.dismiss());
         return builder.create();

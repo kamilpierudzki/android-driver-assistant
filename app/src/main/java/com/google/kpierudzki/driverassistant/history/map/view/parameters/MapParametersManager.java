@@ -22,8 +22,8 @@ public class MapParametersManager {
 
     private List<HistoryMapContract.MapData> data;
 
-    public MapParametersManager(@NonNull RecyclerView recyclerView, ICallbacks callbacks, Calendar trackDate) {
-        adapter = new MapParametersAdapter(callbacks, trackDate);
+    public MapParametersManager(@NonNull RecyclerView recyclerView, Calendar trackDate) {
+        adapter = new MapParametersAdapter(trackDate);
         data = new ArrayList<>();
         recyclerView.setLayoutManager(new LinearLayoutManager(recyclerView.getContext(),
                 LinearLayoutManager.HORIZONTAL, false));
@@ -43,9 +43,5 @@ public class MapParametersManager {
     public void setData(@NonNull List<HistoryMapContract.MapData> data) {
         this.data.clear();
         this.data.addAll(data);
-    }
-
-    public interface ICallbacks {
-        void onParameterClicked(ObdParamType paramType);
     }
 }

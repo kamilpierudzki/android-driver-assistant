@@ -22,11 +22,9 @@ import java.util.Locale;
 public class MapParametersAdapter extends RecyclerView.Adapter<ParameterViewHolder> {
 
     private List<EntityModel> models;
-    private MapParametersManager.ICallbacks callbacks;
     private Calendar _trackDate;
 
-    MapParametersAdapter(MapParametersManager.ICallbacks callbacks, Calendar trackDate) {
-        this.callbacks = callbacks;
+    MapParametersAdapter(Calendar trackDate) {
         models = new ArrayList<>();
         _trackDate = trackDate;
     }
@@ -34,7 +32,7 @@ public class MapParametersAdapter extends RecyclerView.Adapter<ParameterViewHold
     @Override
     public ParameterViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         return new ParameterViewHolder(LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.item_map_param, parent, false), callbacks);
+                .inflate(R.layout.item_map_param, parent, false));
     }
 
     @Override
