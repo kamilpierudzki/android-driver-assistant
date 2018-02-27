@@ -19,7 +19,7 @@ private val color: Int) {
     companion object {
         fun matchColor(score: Float): ScoreColor {
             for (value in values()) {
-                if (value.rangeStart <= score && score < value.rangeEnd)
+                if (value.rangeStart <= score && score <= value.rangeEnd)
                     return value;
             }
             return Unknown;
