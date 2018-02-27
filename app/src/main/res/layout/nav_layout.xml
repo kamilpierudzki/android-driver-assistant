@@ -10,15 +10,27 @@
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <include
-        android:id="@+id/nev_demo_layout"
+        android:id="@+id/nav_demo_layout"
         layout="@layout/demo_mode_switcher"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/nav_debug_layout" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/nav_about"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:padding="8dp"
+        android:text="@string/Drawer.Menu.About"
+        android:textColor="@color/APP_COLOR_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nav_demo_layout" />
 
 </android.support.constraint.ConstraintLayout>

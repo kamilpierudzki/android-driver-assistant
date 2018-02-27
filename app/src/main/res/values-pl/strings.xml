@@ -81,4 +81,8 @@
 
     <string name="DemoMode.Switcher.Text">Tryb demonstracyjny</string>
 
+    <string name="Drawer.Menu.About">O Aplikacji</string>
+    <string name="Drawer.Menu.About.Dialog.Msg">Podziękowania dla icons8.com za ikony znajdujące się w aplikacji</string>
+    <string name="Drawer.Menu.About.Dialog.Button">OK</string>
+
 </resources>

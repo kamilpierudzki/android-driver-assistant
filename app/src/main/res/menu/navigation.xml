@@ -3,8 +3,7 @@
 
     <item
         android:id="@+id/navigation_ecodriving"
-        android:icon="@drawable/ic_eco_driving"
-        android:iconTint="@color/APP_COLOR_2"
+        android:icon="@drawable/ic_economic_driving"
         android:title="@string/Ecodriving.Name" />
 
     <item
@@ -19,7 +18,7 @@
 
     <item
         android:id="@+id/navigation_dtc"
-        android:icon="@mipmap/ic_check_engine"
+        android:icon="@mipmap/ic_engine"
         android:title="@string/Dtc.Name" />
 
 </menu>

@@ -28,6 +28,7 @@ import com.google.kpierudzki.driverassistant.debug.obd_recording.view.DebugDrawe
 import com.google.kpierudzki.driverassistant.dtc.view.DtcFragment;
 import com.google.kpierudzki.driverassistant.eco_driving.view.EcoDrivingFragment;
 import com.google.kpierudzki.driverassistant.history.calendar.view.HistoryCalendarFragment;
+import com.google.kpierudzki.driverassistant.menu.about.MenuDrawerAbout;
 import com.google.kpierudzki.driverassistant.menu.demoModeSwitcher.MenuDemoModeSwitcher;
 import com.google.kpierudzki.driverassistant.obd.start.view.ObdStartFragment;
 
@@ -107,6 +108,7 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
             menuControls.add(new DebugDrawerExportDb(view));
         }
         menuControls.add(new MenuDemoModeSwitcher(view));
+        menuControls.add(new MenuDrawerAbout(view, getSupportFragmentManager(), drawer));
     }
 
     @Override

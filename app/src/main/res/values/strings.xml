@@ -81,4 +81,8 @@
 
     <string name="DemoMode.Switcher.Text">Demo mode</string>
 
+    <string name="Drawer.Menu.About">About</string>
+    <string name="Drawer.Menu.About.Dialog.Msg">Thanks to icons8.com for some icons</string>
+    <string name="Drawer.Menu.About.Dialog.Button">OK</string>
+
 </resources>
