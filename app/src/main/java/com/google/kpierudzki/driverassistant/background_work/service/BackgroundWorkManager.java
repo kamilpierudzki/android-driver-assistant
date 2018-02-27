@@ -45,7 +45,7 @@ public class BackgroundWorkManager extends BaseServiceManager {
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(context, APP_CHANNEL);
         notificationBuilder.setContentTitle(App.getAppContext().getString(R.string.app_name))
                 .setContentText(App.getAppContext().getString(R.string.BackgroundWork_Notification_Message))
-                .setSmallIcon(R.mipmap.ic_launcher)
+                .setSmallIcon(R.drawable.ic_app_icon)
                 .setOngoing(true)
                 .setContentIntent(contentPendingIntent);
 

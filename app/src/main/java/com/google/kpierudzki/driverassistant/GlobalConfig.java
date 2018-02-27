@@ -5,7 +5,7 @@ package com.google.kpierudzki.driverassistant;
  */
 
 public class GlobalConfig {
-    public static boolean DEBUG_MODE = true;//todo przenieść do BuildTypes
+    public static boolean DEBUG_MODE = false;//todo przenieść do BuildTypes
     public static boolean DEMO_MODE = false;
     public final static String MOCK_TRACK = "gps_probe_recording_poz_czar.json";
 

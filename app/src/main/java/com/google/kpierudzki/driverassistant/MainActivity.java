@@ -14,10 +14,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
 import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.FrameLayout;
+import android.widget.TextView;
 
 import com.google.kpierudzki.driverassistant.common.IDestroyable;
 import com.google.kpierudzki.driverassistant.debug.export_main_db.DebugDrawerExportDb;
@@ -57,6 +59,12 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     @BindView(R.id.bottomNavigationView)
     BottomNavigationView navigation;
 
+    @BindView(R.id.main_activity_version)
+    TextView drawerMenuLabelVersion;
+
+    @BindView(R.id.nav_debug_layout)
+    FrameLayout debugContainer;
+
     private List<IDestroyable> menuControls = new ArrayList<>();
 
     private int navigationSelectedId = -1;
@@ -68,6 +76,11 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
+
+        drawerMenuLabelVersion.setText(BuildConfig.VERSION_NAME);
+        if (GlobalConfig.DEBUG_MODE) {
+            debugContainer.addView(LayoutInflater.from(this).inflate(R.layout.nav_debug_layout, null, false));
+        }
 
         prepareAppBar();
 

@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Eko Asystent Kierowcy</string>
+    <string name="app_name">Asystent Kierowcy</string>
     <string name="google_maps_key">AIzaSyDzGffgYfUDoms0ZHbXlEl32hjGTKM-BfU</string>
     <string name="google_reverse_geocode_key">AIzaSyAbtLmqnR47d4_xZc7SManXu0iBDl4TP2U</string>
 
-    <string name="Ecodriving.Name">Eko jazda</string>
+    <string name="Ecodriving.Name">Ekonomiczna jazda</string>
     <string name="OBD2.Name">Komputer pokładowy</string>
     <string name="Dtc.Name">Błędy diagnostyczne</string>
     <string name="History.Calendar.Name">Historia</string>
@@ -51,53 +51,33 @@
 
     <string name="Parameter.Speed.Map.Unit">km/h</string>
     <string name="Parameter.Speed.Map.Name">Prędkość</string>
-    <string name="Parameter.Speed.Map.Dialog.Title">Prędkość</string>
-    <string name="Parameter.Speed.Map.Dialog.Desc">Może pochodzić z odbiornika GPS lub komputera pokładowego. Wyrażana w km/h.</string>
 
     <string name="Parameter.Score.Map.Unit">Pkt.</string>
     <string name="Parameter.Score.Map.Name">Punkty</string>
-    <string name="Parameter.Score.Map.Dialog.Title">Punkty</string>
-    <string name="Parameter.Score.Map.Dialog.Desc">Punkty zdobyte dla trasy.</string>
 
     <string name="Parameter.Date.Map.Unit">godz:min</string>
     <string name="Parameter.Date.Map.Name">Czas</string>
-    <string name="Parameter.Date.Map.Dialog.Title">Czas rejestracji próbki</string>
-    <string name="Parameter.Date.Map.Dialog.Desc">Czas rejestracji próbki</string>
 
     <string name="Parameter.Rpm.Map.Unit">Obr./min</string>
     <string name="Parameter.Rpm.Map.Name">Obroty</string>
-    <string name="Parameter.Rpm.Map.Dialog.Title">Obroty silnika</string>
-    <string name="Parameter.Rpm.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="Parameter.CoolantTemp.Map.Unit">°C</string>
     <string name="Parameter.CoolantTemp.Map.Name">Temp. chłodnicy</string>
-    <string name="Parameter.CoolantTemp.Map.Dialog.Title">Temperatura płynu chłodnicy</string>
-    <string name="Parameter.CoolantTemp.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="Parameter.Maf.Map.Unit">g/s</string>
     <string name="Parameter.Maf.Map.Name">Ciąg powietrza</string>
-    <string name="Parameter.Maf.Map.Dialog.Title">Masa powierza zasysana przez silnik</string>
-    <string name="Parameter.Maf.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="Parameter.Load.Map.Unit">%</string>
     <string name="Parameter.Load.Map.Name">Obciążenie</string>
-    <string name="Parameter.Load.Map.Dialog.Title">Obciążenie silnika</string>
-    <string name="Parameter.Load.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="Parameter.Oil.Map.Unit">°C</string>
     <string name="Parameter.Oil.Map.Name">Temp. oleju</string>
-    <string name="Parameter.Oil.Map.Dialog.Title">Temperatura oleju silnikowego</string>
-    <string name="Parameter.Oil.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="Parameter.AmbientTemp.Map.Unit">°C</string>
     <string name="Parameter.AmbientTemp.Map.Name">Temp. otoczenia</string>
-    <string name="Parameter.AmbientTemp.Map.Dialog.Title">Temperatura otoczenia pojazdu</string>
-    <string name="Parameter.AmbientTemp.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="Parameter.BarometricPress.Map.Unit">kPa</string>
     <string name="Parameter.BarometricPress.Map.Name">Ciś. Atm.</string>
-    <string name="Parameter.BarometricPress.Map.Dialog.Title">ciśnienie atmosferyczne</string>
-    <string name="Parameter.BarometricPress.Map.Dialog.Desc">Tutaj jakaś ogólna informacja.</string>
 
     <string name="DemoMode.Switcher.Text">Tryb demonstracyjny</string>
 
